@@ -1,1 +1,1 @@
-# Parodify
+O projeto é uma automação de teste que abre um navegador, navega até um site específico (https://parodify.vercel.app), verifica se um usuário específico está logado e interage com um botão de play/pause para tocar uma música específica.
